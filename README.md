@@ -17,7 +17,8 @@ The ALU will take in two 32-bit values, and control line. An Arithmetic unit doe
 ![image](https://github.com/user-attachments/assets/e574788c-253f-46da-8468-298fe2844f7a)
 
 ### Fig 1 : Block Diagram of 32 Bit ALU 
-
+<br>
+<br>
 ## Creating a Work space :
 
 Create a folder in your name (Note: Give folder name without any space) and Create a new sub-Directory name it as Exp3 or alu_32bit for the Design and open a terminal from the Sub-Directory.
