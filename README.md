@@ -51,6 +51,9 @@ Similarly, create your test bench using gedit <filename_tb>.v or <filename_tb>.v
 
 Use Save option or Ctrl+S to save the code or click on the save option from the top most right corner and close the text file.
 
+<br>
+<br>
+
 ## Functional Simulation: 
 
 Invoke the cadence environment by type the below commands 
@@ -122,6 +125,7 @@ Inputs: Supplied are Verilog design and test bench codes
 
 Outputs: Compiled database created in mapped library if successful, generates report else error reported in log file 
 
+<br>
 ## 	Steps for compilation: 
 
 1. Create work/library directory (most of the latest simulation tools creates automatically)
