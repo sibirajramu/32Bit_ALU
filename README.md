@@ -53,6 +53,7 @@ Use Save option or Ctrl+S to save the code or click on the save option from the 
 
 <br>
 <br>
+<br>
 
 ## Functional Simulation: 
 
@@ -159,6 +160,8 @@ To check the port connections in hierarchical design
 Inputs: Top level design / test bench Verilog codes 
 
 Outputs: Elaborate database updated in mapped library if successful, generates report else error reported in log file 
+
+<br>
 
 ## 	Steps for elaboration 
 
